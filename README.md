@@ -15,7 +15,8 @@ A simple Streamlit app that summarizes uploaded PDF documents using Google’s G
 ---
 
 ##  Setup
-
+ 
+ 
 1. **Clone or download the project**
 2. **Install dependencies**
 3. **Create a `.env` File with your Gemini API key**
